@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.f2567123.chunk.css",
+    "main.js": "/react-deploy/static/js/main.bfc2602f.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.bfc2602f.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.8b68969c.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.8b68969c.js.map",
+    "static/js/2.07308061.chunk.js": "/react-deploy/static/js/2.07308061.chunk.js",
+    "static/js/2.07308061.chunk.js.map": "/react-deploy/static/js/2.07308061.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "static/css/main.f2567123.chunk.css.map": "/react-deploy/static/css/main.f2567123.chunk.css.map",
+    "static/js/2.07308061.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.07308061.chunk.js.LICENSE.txt",
+    "static/media/icon-luxury.7d6e1aef.svg": "/react-deploy/static/media/icon-luxury.7d6e1aef.svg",
+    "static/media/icon-sedans.e7945028.svg": "/react-deploy/static/media/icon-sedans.e7945028.svg",
+    "static/media/icon-suvs.058b664c.svg": "/react-deploy/static/media/icon-suvs.058b664c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b68969c.js",
+    "static/js/2.07308061.chunk.js",
+    "static/css/main.f2567123.chunk.css",
+    "static/js/main.bfc2602f.chunk.js"
+  ]
+}
