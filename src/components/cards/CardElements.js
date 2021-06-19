@@ -20,7 +20,7 @@ export const CardsContainer = styled.div`
 `;
 
 export const Card = styled.div`
-  font-family: 'Lexend', cursive;
+  font-family: 'Lexend', sans-serif;
   position: relative;
 
   background: ${({ bgColor }) => bgColor};
