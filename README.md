@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://theancientowl.github.io/stats-preview-card-component/]
+- Live Site URL: [https://theancientowl.github.io/3-column-card-component/]
 
 ### My Process
 
